@@ -1,6 +1,6 @@
 
-# Created by https://www.toptal.com/developers/gitignore/api/windows,python,pycharm,vscode,git
-# Edit at https://www.toptal.com/developers/gitignore?templates=windows,python,pycharm,vscode,git
+# Created by https://www.toptal.com/developers/gitignore/api/windows,pycharm,vscode,git,python
+# Edit at https://www.toptal.com/developers/gitignore?templates=windows,pycharm,vscode,git,python
 
 ### Git ###
 # Created by git for backups. To disable backups in Git:
@@ -294,4 +294,4 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
-# End of https://www.toptal.com/developers/gitignore/api/windows,python,pycharm,vscode,git
+# End of https://www.toptal.com/developers/gitignore/api/windows,pycharm,vscode,git,python
